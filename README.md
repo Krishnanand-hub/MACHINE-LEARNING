@@ -169,7 +169,7 @@ The specific CSV in this repo is a pre-processed subset of person-level records;
 
 ### Dataset 2 — Cyanobacteria growth fitting results (coursework-provided)
 
-`fitting-results.csv` contains growth-curve fit parameters (`n_cyanos`, `co2`, `light`, `SucRatio`, `Nsample`, `a`, `mu`, `tau`, `a0`). **No public dataset matching this exact file was found.** While the broader topic (cyanobacteria growth curves) is well represented in public repositories such as data.gov (EPA) and published growth-curve datasets, this specific file is **provided as part of the Newcastle University CSC8635 module** and is not redistributed here as an open dataset.
+`fitting-results.csv` contains growth-curve fit parameters (`n_cyanos`, `co2`, `light`, `SucRatio`, `Nsample`, `a`, `mu`, `tau`, `a0`). While the broader topic (cyanobacteria growth curves) is well represented in public repositories such as data.gov (EPA) and published growth-curve datasets, this specific file is **provided as part of the Newcastle University CSC8635 module** and is not redistributed here as an open dataset.
 
 ---
 
